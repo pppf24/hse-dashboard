@@ -1,0 +1,8 @@
+site_name: 集团HSE工作看板
+site_author: HSE管理部
+theme: material
+
+nav:
+  - 首页: index.md
+  - 任务看板:
+    - 2024年6月: tasks/2024-06.md

@@ -1,7 +1,7 @@
 site_url: https://pppf24.github.io/hse-dashboard/
 use_directory_urls: false
-site_name: 集团HSE工作看板
-site_author: HSE管理部
+site_name: 化工物流HSE工作看板
+site_author: 安全环保部（合规管理部）
 theme: material
 
 nav:

@@ -1,3 +1,5 @@
+site_url: https://pppf24.github.io/hse-dashboard/
+use_directory_urls: false
 site_name: 集团HSE工作看板
 site_author: HSE管理部
 theme: material
@@ -5,4 +7,4 @@ theme: material
 nav:
   - 首页: index.md
   - 任务看板:
-    - 2024年6月: tasks/2024-06.md
+    - 2025年12月: tasks/2025-12.md  # <- 新增行
